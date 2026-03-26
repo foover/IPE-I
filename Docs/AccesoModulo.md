@@ -1,6 +1,7 @@
 Para el acceso a los ciclos formativos de grado superior se precisará el cumplimiento de uno de los siguientes requisitos: 
 
 1/ Poseer el título de Técnico de Grado Medio de Formación Profesional o el de Técnico de Artes Plásticas y Diseño. 
+
 2/ Poseer el título de Bachillerato, o equivalente. 
 
 3/ Haber superado una oferta formativa de Grado C incluida en el ciclo formativo. 
